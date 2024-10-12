@@ -29,4 +29,4 @@ The primary goal of this project is to develop reusable components for editing a
 
 ## Website
 
-For more information, visit our website: [https://markdown.blog](https://markdown.blog)
+For more information, visit our website: [https://markdown.blog](https://markdown.blog) (Press Ctrl and click to open in a new browser tab)
